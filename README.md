@@ -2,9 +2,7 @@
 
 ## **DL- Developing a Deep Learning Model for NER using LSTM**
 
-NAME: SUBHA SHREE U
 
-REGISTER NUMBER: 2305002025
 
 ## **AIM**
 
@@ -68,10 +66,9 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 ## **PROGRAM**
 
 
-**Name:** Hoshini S
+**Name:** Subha shree U
 
-**Register Number:** 2305003006
-
+**Register Number:** 2305002025
 ```python
 
 import matplotlib.pyplot as plt, pandas as pd, numpy as np
